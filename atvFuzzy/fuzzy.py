@@ -65,7 +65,7 @@ fig = gorjeta.view(sim=avaliacao)
 plt.savefig("defuzzificacao.png", dpi=300, bbox_inches='tight')
 plt.show()
 
-# --------- Mapa de regras (opcional, muito útil no relatório) ---------
+# --------- Mapa de regras  ---------
 import numpy as np
 import matplotlib.pyplot as plt
 
